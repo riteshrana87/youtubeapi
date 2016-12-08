@@ -1,0 +1,5 @@
+.container .main .pad .suggestions{ overflow-y: scroll;}
+.container .main .pad .suggestions ul li.content p{ width: 140px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;}
